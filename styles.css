@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+img {
+    margin-top: 20px;
+}
+
+#projects .card {
+    margin-bottom: 30px;
+}
+
+#projects .card-title {
+    font-weight: bold;
+}
+
+#projects .card-text {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#projects .card-link {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+}
+
+#projects .card-link:hover {
+    text-decoration: underline;
+}
+
+#skills img {
+    margin-bottom: 20px;
+}
+
+#skills h5 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#skills p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+#skills .btn-link {
+    color: #007bff;
+}
+
+#skills .btn-link:hover {
+    text-decoration: underline;
+}
+
+#contact h1 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#contact p {
+    font-size: 18px;
+}
+
+#contact .img-fluid {
+    background-color: #ff69b4;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#contact .mr-2 {
+    margin-right: 8px;
+}
+
+body {
+    position: relative;
+    padding-top: 56px; /* Height of the navbar */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 20px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff69b4;
+}
